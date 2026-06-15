@@ -41,7 +41,7 @@ APK: `android/app/build/outputs/apk/debug/app-debug.apk`
 
 - **Patient Portal**: Login, search doctors, book appointments, lab tests, pharmacy
 - **Admin Dashboard**: Manage doctors, appointments, lab tests, pharmacy inventory
-- **Mobile App**: Full-featured Android app (iOS in progress)
+- **Mobile App**: Full-featured Android app 
 - **Real-time Sync**: Changes sync between web and mobile instantly
 
 ## 🛠 Tech Stack
